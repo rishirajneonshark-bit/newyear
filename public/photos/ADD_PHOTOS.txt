@@ -1,0 +1,1 @@
+Add your photos here named photo-01.jpg through photo-06.jpg, or edit the photos array in src/App.jsx to use your exact filenames.
